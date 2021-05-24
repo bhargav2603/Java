@@ -25,3 +25,4 @@ We're on [Gitter](https://gitter.im/TheAlgorithms)! Please join us.
 ## Algorithms
 
 See our [directory](DIRECTORY.md).
+i am a fresher trying to learn git and git hub.
